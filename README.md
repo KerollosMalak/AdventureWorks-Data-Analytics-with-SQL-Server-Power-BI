@@ -50,8 +50,11 @@ By transitioning data from OLTP to a clean OLAP model and visualizing it in Powe
 ## 📁 Project Structure
 
 ├── SQL/
+
 │ └── OLTP_to_OLAP_Queries.sql # SQL scripts for data extraction & modeling
+
 ├── PowerBI/
+
 │ └── AdventureWorks_Dashboard.pbix
 
 ---
